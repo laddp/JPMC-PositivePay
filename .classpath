@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="S:/IT Department/Programming/Dependencies/jsch-0.1.44.jar"/>
+	<classpathentry kind="lib" path="S:/IT Department/Programming/Dependencies/pdfbox-1.5.0.jar"/>
+	<classpathentry kind="lib" path="S:/IT Department/Programming/Dependencies/VFSJFileChooser-0.0.4.jar"/>
+	<classpathentry kind="lib" path="S:/IT Department/Programming/Dependencies/commons-vfs-2.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="S:/IT Department/Programming/Dependencies/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="S:/IT Department/Programming/Dependencies/fontbox-1.5.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
